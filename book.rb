@@ -1,16 +1,15 @@
-require_relative 'rental_class'
-
 class Book
   attr_accessor :title, :author, :rentals
 
   def initialize(title, author)
     @title = title
     @author = author
-    @rentals = []
+    @rentals = [] # Initialize rentals as an empty array
   end
 
-  def add_rental(rental)
-    @rentals.push(rental)
+  def add_rental(person, date)
+    rental = Rental.new(date, self, person)
     @rentals << rental
+    person.link_rental(rental)
   end
 end
