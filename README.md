@@ -184,6 +184,6 @@ I would like to thank Microverse for giving me the opportunity to learn and grow
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/kerlos-bahaa/OOP-school-library/blob/dev/MIT.md) licensed.
+This project is [MIT](https://github.com/kerlos-bahaa/OOP-school-library/blob/refactor/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
