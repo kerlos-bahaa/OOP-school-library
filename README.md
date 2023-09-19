@@ -3,36 +3,15 @@
 <div align="center">
 
   <h1><b>OOP school library</b></h1><a name="about-project"></a>
+
 </div>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 OOP school library ](#-OOP-school-library-)
+- [📖 OOP school library ](#-oop-school-library-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -42,7 +21,6 @@ After you're finished please remove all the comments and instructions!
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
-  - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -53,34 +31,13 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 OOP school library <a name="about-project"></a>
 
-> The **_OOP school library_** is a project that allows you to get information about school.
+> The **_OOP school library_** is a software application designed to efficiently manage the library's collection of books and keep track of borrowers. This comprehensive system aims to streamline the library's operations, enhance user experience, and ensure the availability of resources to students and faculty.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > Ruby
-
-<!-- <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details> -->
-
-<!-- <details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details> -->
 
 <!-- Features -->
 
@@ -104,6 +61,13 @@ After you're finished please remove all the comments and instructions!
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+- Laptop
+- Github
+- Git
+- Ruby
+- Linters 
 
 ### Prerequisites
 
@@ -170,15 +134,23 @@ Example:
 - LinkedIn: [Kerlos bahaa
   ](https://www.linkedin.com/in/kerlos-bahaa/)
 
+👤 **Sana Tameem**
+
+- GitHub: [@githubhandle](https://github.com/SanaTameem)
+- Twitter: [@twitterhandle](https://twitter.com/sana_tameem)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sana-tameem/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **More data**
-- **More classes**
-- **More methouds**
+- [ ] **More data**
+- [ ] **More classes**
+- [ ] **More methouds**
+- [ ] **[preserve data]**
+- [ ] **[unit tests]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,7 +160,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/kerlos-bahaa/OOP-school-library/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,7 +168,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project,please give it a ⭐️!
+If you like this project,please give us a ⭐️!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,26 +178,12 @@ If you like this project,please give it a ⭐️!
 
 I would like to thank Microverse for giving me the opportunity to learn and grow as a developer.
 
-<!-- FAQ (optional) -->
-<!--
-## ❓ FAQ <a name="faq"></a>
-
-- **Do I need to install any program before running this project?**
-
-  - [ ] **Yes, you need to install PostgreSQL**
-
-  <br>
-
-- **Can I use this project for my own purposes?**
-
-  - [ ] **Yes, you can.** -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/kerlos-bahaa/OOP-school-library/blob/refactor/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
