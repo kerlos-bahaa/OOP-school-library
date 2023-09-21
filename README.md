@@ -63,11 +63,12 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
 - Laptop
 - Github
 - Git
 - Ruby
-- Linters 
+- Linters
 
 ### Prerequisites
 
@@ -146,7 +147,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **More data**
+- [ ] **More-data**
 - [ ] **More classes**
 - [ ] **More methouds**
 - [ ] **[preserve data]**
